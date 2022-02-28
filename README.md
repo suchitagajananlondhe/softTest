@@ -1,1 +1,2 @@
 # softTest
+this is the test cases design by suchita
